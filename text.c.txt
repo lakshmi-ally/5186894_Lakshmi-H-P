@@ -5,4 +5,4 @@ int main (){
 int=0;
 }
 // this is from dev branch
-double d;
+double d=0.0;
